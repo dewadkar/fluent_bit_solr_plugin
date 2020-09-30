@@ -1,6 +1,8 @@
 # Fluent-Bit Solr Output Plugin
 
-Updated work of solr plugin for CPU input inside docker : https://github.com/oleewere/fluent-bit-solr-plugin
+Updated work of solr plugin for CPU input inside docker :
+
+## Original Work:  ## https://github.com/oleewere/fluent-bit-solr-plugin
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/oleewere/fluent-bit.svg)](https://hub.docker.com/r/oleewere/fluent-bit/)
 [![Go Report Card](https://goreportcard.com/badge/github.com/oleewere/fluent-bit-solr-plugin)](https://goreportcard.com/report/github.com/oleewere/fluent-bit-solr-plugin)
