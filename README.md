@@ -1,0 +1,1 @@
+# fluent_bit_solr_plugin
